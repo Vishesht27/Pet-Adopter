@@ -1,5 +1,8 @@
 # Pet-Adoption
 
+<p align="center">
+<img src="https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/8.gif" alt="Jetpack Compose Samples" width="200" height="500"  />
+</p>
 
  Selection Page               |  Pet DetailsPage               | Tutorials         |  Pets List
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
