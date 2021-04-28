@@ -1,13 +1,11 @@
 # Pet-Adoption
 
-This basic application allows one to get a pet puppy or kitten.
-<img src = "1.jpg"  width="500" height="500">
 
-Get all the information about it and conatct the owner of knowing the further process.
-<img src = "2.jpg"  width="500" height="500">
+ Welcome Page               |  Login Page               | Search           |  Profile Selection
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/1.jpeg)|![](https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/2.jpeg)|![](https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/3.jpeg)|![](https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/4.jpeg)|
 
-Get some basics tutorials for getting ready witht the adoption !
-<img src = "3.jpg"  width="500" height="500">
 
-Happy petting!
-
+Symptoms Page         | Welcome to Home screen       |  Home Screen             
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/5.jpeg)|![](https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/6.jpeg)|![](https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/7.jpeg)|
