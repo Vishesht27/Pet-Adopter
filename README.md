@@ -10,7 +10,7 @@ This Application has been built using Jetpack-Compose & Kotlin.
 
 * They can also see some tutorials of how to take care of animals .
 
-
+* This Peoject won 2021 Android Developer Challenge
 
  Selection Page               |  Pet DetailsPage               | Tutorials         |  Pets List
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
