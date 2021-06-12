@@ -4,14 +4,14 @@
 <img src="https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/8.gif" alt="Jetpack Compose Samples" width="200" height="500"  />
 </p>
 
-This Application has been built using Jetpack-Compose & Kotlin.
+# Tech Stack
 
-* The application is made for people who want to adopt kittens or puppies.
+Our tech stack consists of the following:
 
-* They can also see some tutorials of how to take care of animals .
+* **Android Studio**   
+* **Jetpack Compose**  (Moden Android UI Kit)
 
-* This Project won 2021 Android Developer Challenge
-
+## Screenshots
  Selection Page               |  Pet DetailsPage               | Tutorials         |  Pets List
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/1.jpeg)|![](https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/2.jpeg)|![](https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/3.jpeg)|![](https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/4.jpeg)|
