@@ -11,6 +11,16 @@ Our tech stack consists of the following:
 * **Android Studio**   
 * **Jetpack Compose**  (Moden Android UI Kit)
 
+
+## Features
+
+A few of the things you can do with Dreaven 
+
+* Tell the user about the avialable puppies and kittens for adoption
+* Individual Detail of each of the pet
+* Some basic tips to follow and help them
+
+
 ## Screenshots
  Selection Page               |  Pet DetailsPage               | Tutorials         |  Pets List
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
