@@ -1,8 +1,21 @@
 # Pet-Adoption Application
 
+
+💻 Requirements
+------------
+To try out these sample apps, you need to use the latest version of [Android Studio Arctic Fox](https://developer.android.com/studio/preview).
+You can clone this repository or import the
+project from Android Studio following the steps
+[here](https://developer.android.com/jetpack/compose/setup#sample).
+
+
+🧬 Samples
+------------
+
 <p align="center">
 <img src="https://github.com/Vishesht27/Pet-Adoption/blob/main/Images/8.gif" alt="Jetpack Compose Samples" width="200" height="500"  />
 </p>
+
 
 # Tech Stack
 
